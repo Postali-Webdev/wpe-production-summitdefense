@@ -1,0 +1,24 @@
+[23-Sep-2022 05:09:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/n70j7rw25rgm/public_html/wp-content/themes/new-summit-defense/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/n70j7rw25rgm/public_html/wp-content/themes/new-summit-defense/index.php on line 14
+[15-May-2024 10:51:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/n70j7rw25rgm/public_html/wp-content/themes/new-summit-defense/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/n70j7rw25rgm/public_html/wp-content/themes/new-summit-defense/index.php on line 14
+[08-Jun-2024 13:24:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/n70j7rw25rgm/public_html/wp-content/themes/new-summit-defense/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/n70j7rw25rgm/public_html/wp-content/themes/new-summit-defense/index.php on line 14
+[08-Jun-2024 13:24:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/n70j7rw25rgm/public_html/wp-content/themes/new-summit-defense/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/n70j7rw25rgm/public_html/wp-content/themes/new-summit-defense/index.php on line 14
+[08-Jun-2024 21:07:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/n70j7rw25rgm/public_html/wp-content/themes/new-summit-defense/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/n70j7rw25rgm/public_html/wp-content/themes/new-summit-defense/index.php on line 14
+[08-Jun-2024 21:07:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/n70j7rw25rgm/public_html/wp-content/themes/new-summit-defense/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/n70j7rw25rgm/public_html/wp-content/themes/new-summit-defense/index.php on line 14
